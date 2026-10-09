@@ -1,47 +1,7 @@
-CAMPANIA SERVICE — VERSIONE VERDE / LOGO VINTAGE
+Aggiornamento per campania-service2.
 
-CONTENUTO
-Tutti i file del sito: 6 pagine HTML, style.css, script.js e cartella images.
-Questa è una copia autonoma del sito originale con nuovo logo e colori.
-Testi, font, impaginazione, fotografie, animazioni e funzioni restano gli stessi.
-Logo integrale fornito dall’utente, senza ridisegnarlo o modificarlo.
+Estrai lo ZIP e carica i sei file HTML, style.css e script.js nella cartella principale del repository campania-service2, sostituendo quelli esistenti. Mantieni la cartella images già presente. Non caricare lo ZIP come singolo file.
 
-ANTEPRIMA SUL COMPUTER
-1. Estrai tutto lo ZIP.
-2. Apri index.html con Chrome, Edge o Firefox.
-3. Visita le altre pagine usando il menu.
-Per visualizzare i font originali Google e la mappa serve Internet.
+Logo originale: 104 px su desktop, 88 px su tablet, 76 px su smartphone. Testata persistente in tutte le pagine; menu scorrevole sui telefoni. Colori del sito preservati.
 
-PUBBLICAZIONE COME SECONDO SITO SU GITHUB PAGES
-1. Accedi a GitHub e crea un NUOVO repository, per esempio campania-service-verde.
-2. Scegli Public se utilizzi GitHub Pages con un account gratuito.
-3. Seleziona Add file > Upload files.
-4. Carica tutto il contenuto della cartella estratta, inclusa images.
-   index.html, style.css e script.js devono essere nella radice del repository.
-   Non caricare soltanto lo ZIP e non mettere index.html in una sottocartella.
-5. Conferma con Commit changes sul branch main.
-6. Apri Settings > Pages.
-7. In Build and deployment seleziona Deploy from a branch.
-8. Seleziona main e / (root), poi Save.
-9. Attendi che GitHub Pages mostri il link del nuovo sito.
-
-Se il repository si chiama campania-service-verde, il link sarà:
-https://michelefeola-prog.github.io/campania-service-verde/
-Il link è un esempio: diventa attivo solo dopo la pubblicazione.
-
-Il repository originale campania-service resta separato.
-Puoi così mostrare entrambi i siti con due indirizzi diversi.
-Non sono necessarie installazioni, npm o compilazioni.
-
-PALETTE
-Verde scuro: #0B3D2F
-Crema: #FBEFD7
-Salvia: #B6CEB6
-Arancio: #DF542D
-Arancio scuro dei pulsanti: #AF3D20, per mantenere il testo leggibile.
-Le altre tonalità sono derivate dalla stessa palette per hover e dettagli.
-
-VERIFICHE
-Contenuti e struttura delle sei pagine confrontati con l’originale.
-JavaScript invariato; fotografie originali conservate.
-Collegamenti a pagine, immagini, CSS, JavaScript e ancore locali verificati.
+Verificati presenza e riferimenti del logo in tutte le sei pagine, riferimenti CSS/JS e sintassi JavaScript. Verifica visiva nel browser non disponibile.
