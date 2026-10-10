@@ -31,7 +31,7 @@ if (lb) {
 
   var morning = [540, 780], evening = [990, 1200];
   var HOURS = { 0: [], 1: [morning, evening], 2: [morning, evening], 3: [morning, evening],
-                4: [morning, evening], 5: [morning, evening], 6: [morning] };
+                4: [morning, evening], 5: [morning, evening], 6: [morning, evening] };
   var NAMES = ['domenica', 'lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato'];
   var WEEK = { Sun: 0, Mon: 1, Tue: 2, Wed: 3, Thu: 4, Fri: 5, Sat: 6 };
 
